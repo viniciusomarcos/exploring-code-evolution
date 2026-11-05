@@ -81,9 +81,13 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
+1. Repositório selecionado: https://github.com/scikit-learn/scikit-learn
+2. Gráfico selecionado: ![Production and test files](production_test_files.png)
+3. Explicação:
+
+O gráfico mostra a evolução da quantidade de arquivos de produção e de teste no scikit-learn entre 2021 e 2026. Ao longo desses cinco anos, nota-se um crescimento contínuo e bem equilibrado em ambas as frentes: os arquivos de produção aumentaram de 620 para 730, enquanto os de teste subiram de 218 para 257, representando uma alta de cerca de 18% em ambos os casos. 
+
+Com isso, a proporção entre testes e produção se manteve praticamente estável em 35% durante todo o período, ou seja, aproximadamente 1 arquivo de teste para cada 2,8 de produção. Esse padrão é um forte indicativo de maturidade e boas práticas no projeto, pois mostra que a base de testes acompanha o crescimento da aplicação de forma consistente, garantindo que novas funcionalidades sejam adicionadas sem deixar a cobertura de testes para trás.
 
 
 
